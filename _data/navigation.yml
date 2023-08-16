@@ -1,0 +1,19 @@
+nav:
+  - title: "Wirtualne zwiedzanie cz I"
+    section: services
+
+  - title: "Wirtualne zwiedzanie cz II"
+    section: portfolio
+    
+  - title: "About"
+    #section: timeline
+    url: /strona
+
+  # - title: "Team"
+  #   section: team
+
+  # - title: "Contact"
+  #   section: contact
+
+  # - title: "External"
+  #   url: https://raviriley.github.io
