@@ -5,9 +5,9 @@ nav:
   - title: "Wirtualne zwiedzanie cz II"
     section: portfolio
     
-  - title: "About"
+  # - title: "About"
     #section: timeline
-    url: /strona
+    # url: /strona
 
   # - title: "Team"
   #   section: team

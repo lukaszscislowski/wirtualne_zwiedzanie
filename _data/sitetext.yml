@@ -14,7 +14,7 @@ services:
         #icon: fas fa-shopping-cart find more at https://fontawesome.com/icons
         image: assets/img/service/photo_project_4551.png 
         alt: wirtualne zwiedzanie cz I
-        url: https://fontawesome.com/icons
+        url: https://mocak.playkrakow.com/projekt_1/
       - title: "wirtualne zwiedzanie cz II"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
         #icon: fas fa-laptop  
