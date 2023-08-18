@@ -10,18 +10,18 @@ services:
     text: "MOCAK"
     section: services
     list:
-      - title: "wirtualne zwiedzanie cz I"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+      - title: "Władysław Hasior. Europejski Rauschenberg?"
+        desc: "Wystawa prezentuje sto dzieł z lat 1956-1983, uznanych za najważniejsze manifestacje filozofii życia Władysława Hasiora."
         #icon: fas fa-shopping-cart find more at https://fontawesome.com/icons
         image: assets/img/service/photo_project_4551.png 
-        alt: wirtualne zwiedzanie cz I
-        url: https://mocak.playkrakow.com/projekt_1/
-      - title: "wirtualne zwiedzanie cz II"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        #icon: fas fa-laptop  
+        alt: Władysław Hasior. Europejski Rauschenberg?
+        url: https://mocak.playkrakow.com/hasior/
+      - title: "Historia w Sztuce"
+        desc: "Historia w sztuce to międzynarodowa wystawa badająca, jak historia buduje tożsamość w wymiarze społecznym i indywidualnym."
+        #icon: 
         image: assets/img/service/photo_project_4470.png 
-        alt: wirtualne zwiedzanie cz II
-        url: https://fontawesome.com/icons     
+        alt: Historia w Sztuce
+        url: https://mocak.playkrakow.com/historia-w-sztuce/  
      
     
 footer:

@@ -1,9 +1,9 @@
 nav:
-  - title: "Wirtualne zwiedzanie cz I"
+  - title: "Władysław Hasior"
     section: services
 
-  - title: "Wirtualne zwiedzanie cz II"
-    section: portfolio
+  - title: "Historia w sztuce"
+    section: services
     
   # - title: "About"
     #section: timeline
